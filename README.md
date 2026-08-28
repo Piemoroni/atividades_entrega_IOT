@@ -616,3 +616,4 @@ Durante as atividades foram desenvolvidos conhecimentos relacionados à eletrôn
 As simulações permitiram trabalhar com componentes como LEDs, resistores, transistores, sensores, fotoresistores, capacitores, servomotores e displays de sete segmentos.
 Também foi desenvolvido um projeto de automação de um portão eletrônico utilizando Arduino UNO e relês.
 Na etapa de análise de dados, os registros do portão foram utilizados para criar um Dashboard Web capaz de apresentar as informações de forma visual, utilizando HTML, CSS, JavaScript e Chart.js.
+Por Pietra Moroni :)
