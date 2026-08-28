@@ -563,7 +563,7 @@ O Dashboard foi desenvolvido utilizando HTML para estruturar a página, CSS para
 
 ### Acessar o Dashboard
 
-🌐 **GitHub Pages:** [Clique aqui para acessar o Dashboard](https://piemoroni.github.io/dashbord_iot/)
+**GitHub Pages:** [Clique aqui para acessar o Dashboard](https://piemoroni.github.io/dashbord_iot/)
 
 ### Print — Dashboard
 
